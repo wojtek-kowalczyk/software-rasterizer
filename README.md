@@ -1,4 +1,4 @@
-# CPU Rasterizer
+# Software Rasterizer
 
 ![Example Render](Github/render.png)
 
